@@ -1,0 +1,14 @@
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\bin\Debug\netcoreapp3.1\8_ekstra_ornek_.exe
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\bin\Debug\netcoreapp3.1\8_ekstra_ornek_.deps.json
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\bin\Debug\netcoreapp3.1\8_ekstra_ornek_.runtimeconfig.json
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\bin\Debug\netcoreapp3.1\8_ekstra_ornek_.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\bin\Debug\netcoreapp3.1\8_ekstra_ornek_.dll
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\bin\Debug\netcoreapp3.1\8_ekstra_ornek_.pdb
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\obj\Debug\netcoreapp3.1\8_ekstra_ornek_.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\obj\Debug\netcoreapp3.1\8_ekstra_ornek_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\obj\Debug\netcoreapp3.1\8_ekstra_ornek_.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\obj\Debug\netcoreapp3.1\8_ekstra_ornek_.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\obj\Debug\netcoreapp3.1\8_ekstra_ornek_.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\obj\Debug\netcoreapp3.1\8_ekstra_ornek_.dll
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\obj\Debug\netcoreapp3.1\8_ekstra_ornek_.pdb
+C:\Users\OMEN\source\repos\8_ekstra_ornek_\8_ekstra_ornek_\obj\Debug\netcoreapp3.1\8_ekstra_ornek_.genruntimeconfig.cache
